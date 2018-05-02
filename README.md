@@ -16,6 +16,6 @@ Thanks for the baseline code [pytorch-cifar](https://github.com/kuangliu/pytorch
 
 - VGG: 93.xxx%
 
-(Seems main improvements is caused by the higher resolution of early layers, not the attentions? Sad :(... Need more experiments on larger datasets like cifar-100 or ImageNet)
+(Seems main improvements are caused by the higher resolution of early layers, not the attentions? Sad :(... Need more experiments on larger datasets like cifar-100 or ImageNet)
 
 
